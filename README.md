@@ -1,2 +1,3 @@
 # SwiftyJokes
-A simple app to demonstrate network calls in the swift language
+
+This app demonstrates network calls and the MVVM design pattern. 
